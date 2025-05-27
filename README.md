@@ -21,3 +21,24 @@ This tells us whether income level affects access to therapy. If people with hig
 ### 5. Which cities have the highest average BMI?
 
 This helps identify cities where BMI levels are high, which might indicate poor diet, low exercise, or stress-related issues. Health authorities in these cities could focus on fitness and diet improvement campaigns.
+
+### 6. What is the average sleep duration grouped by mental health status?
+
+This shows how sleep correlates with mental health. If people with poor mental health also sleep less, it underscores the importance of sleep-focused mental health interventions.
+
+### 7. How many people have attempted to quit smoking at least once?
+
+This tells us how many individuals have made efforts to quit smoking. A large number shows that many are motivated but may need support. A small number might suggest denial or lack of motivation.
+
+### 8. What is the employment status distribution among those with social support?
+
+We can see which employment groups (e.g., employed, unemployed, student) have more social support. This is useful because those lacking support may be more vulnerable to addiction or mental health challenges.
+
+### 9. How does diet quality relate to exercise frequency?
+
+This shows us how often people who eat well also exercise. It helps us identify whether healthy behaviors go hand-in-hand, which can guide programs that promote both together.
+
+### 10. Which are the top 5 countries with the highest average alcohol consumption per week?
+
+This helps us spot which countries have the highest alcohol intake. That information is key to identifying areas needing stricter alcohol policies or community education efforts.
+
