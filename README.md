@@ -42,3 +42,23 @@ This shows us how often people who eat well also exercise. It helps us identify 
 
 This helps us spot which countries have the highest alcohol intake. That information is key to identifying areas needing stricter alcohol policies or community education efforts.
 
+### 11. What is the average number of smoking attempts to quit by education level?
+
+This tells us whether education influences efforts to quit smoking. For example, a higher average among more educated individuals could reflect better awareness or access to cessation resources.
+
+### 12. How does average sleep hours vary by employment status?
+
+This reveals how employment might impact sleep. For instance, unemployed individuals or students might sleep more due to flexible schedules, while full-time workers may sleep less due to stress or time constraints.
+
+### 13. What is the relationship between marital status and average alcohol consumption per week?
+
+This highlights how marital status may influence drinking habits. For example, singles or divorced individuals may show higher alcohol consumption due to loneliness or stress.
+
+### 14. What is the average BMI grouped by diet quality?
+
+This helps us understand the impact of diet on BMI. If individuals with a “Poor” diet quality have significantly higher BMI, it strengthens the case for diet-based interventions in weight management programs.
+
+### 15. How many individuals with health issues also have a current therapy history?
+
+This shows how many people with health issues are actively receiving therapy, indicating how well therapeutic support is being used in populations that need it most.
+
